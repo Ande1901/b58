@@ -1,0 +1,25 @@
+{
+  "name": "batch-58",
+  "version": "1.0.0",
+  "description": "this is my third personal website with js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ande1901/b58.git"
+  },
+  "author": "Ande Franata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ande1901/b58/issues"
+  },
+  "homepage": "https://github.com/Ande1901/b58#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
